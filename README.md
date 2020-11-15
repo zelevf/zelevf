@@ -9,6 +9,7 @@ FullStack Web Developer
 🖥 Illustrator - Photoshop - Premiere - After Effects   
 
 
+
 🌱 Learning
 - React
 - Angular
