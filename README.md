@@ -4,7 +4,7 @@ FullStack Web Developer
 
 🌐 HTML5 - CSS - JavaScript - Node.js    
 🛢 MySQL - MongoDB    
-⚙️ Git - GitHub  
+⚙️ Git - GitHub - Swagger  
 🔧 Visual Studio Code  
 🖥 Illustrator - Photoshop - Premiere - After Effects   
 
