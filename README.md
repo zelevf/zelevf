@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-FullStack Web Developer
+FullStack Web Developer - OOP
 
 🌐 HTML5 - CSS - JavaScript - Node.js    
 🛢 MySQL - MongoDB    
