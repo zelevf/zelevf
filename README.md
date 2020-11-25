@@ -10,7 +10,4 @@ FullStack Web Developer - OOP
 
 
 
-🌱 Learning
-- React
-- Angular
-- UX/UI Desing
+🌱 Learning React - Angular - UX/UI Desing
