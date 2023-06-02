@@ -2,11 +2,11 @@
 
 FullStack Web Developer - OOP
 
-🌐 HTML5 - CSS - JavaScript - Node.js    
+🌐 HTML5 - CSS - Sass - TailwindCSS - JavaScript - Node.js    
 🛢 MySQL - MongoDB    
 ⚙️ Git - GitHub - Swagger  
 🔧 Visual Studio Code  
-🖥 Illustrator - Photoshop - Premiere - After Effects   
+🖥 Illustrator - Photoshop - Figma - Premiere - After Effects   
 
 
 
